@@ -1,0 +1,16 @@
+Index: src/templateMethod/test.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/templateMethod/test.java	(revision 3f53c634c3a8c01e5f9984f3ae06aa73466939cb)
++++ src/templateMethod/test.java	(revision )
+@@ -8,5 +8,7 @@
+ public class test {
+     public static void main(String[] args) {
+         int a= 0;
++        int b=1;
++        int c = 1;
+     }
+ }
+\ No newline at end of file
